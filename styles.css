@@ -1,0 +1,28 @@
+body {
+    margin-left: 20%;
+    margin-right: 20%;
+    font-family: 'Georgia', serif;
+    background-color: #a0e0fa
+}
+
+div {
+    background-color: #ffffff;
+    border-style: dashed;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    width: 70%;
+    height: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+figcaption {
+    text-align: center;
+    font-size: small;
